@@ -1,8 +1,8 @@
-# TypeScript Boilerplate
+# Tseorum
 
 A template to quickly get started with a TypeScript project.
 
-[![Build Status](https://travis-ci.org/baspeeters/typescript-boilerplate.svg?branch=master)](https://travis-ci.org/baspeeters/typescript-boilerplate)  [![codecov](https://codecov.io/gh/baspeeters/typescript-boilerplate/branch/master/graph/badge.svg)](https://codecov.io/gh/baspeeters/typescript-boilerplate)
+[![Build Status](https://travis-ci.org/baspeeters/tseorum.svg?branch=master)](https://travis-ci.org/baspeeters/tseorum)  [![codecov](https://codecov.io/gh/baspeeters/tseorum/branch/master/graph/badge.svg)](https://codecov.io/gh/baspeeters/tseorum)
 
 
 
